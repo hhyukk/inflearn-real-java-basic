@@ -1,3 +1,5 @@
+package class1;
+
 public class ClassStart2 {
     public static void main(String[] args) {
         String[] studentName = {"학생1", "학생2"};
